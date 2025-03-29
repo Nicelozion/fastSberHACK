@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <div className="">Теофилин</div>
+      <div className="">Теофилин ПРОСТО ПИЗДЕЦ</div>
     </>
   )
 }
